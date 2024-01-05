@@ -1,1 +1,3 @@
 # Statistical-Analysis-of-Species-Richness-Biodiversity-Metrics-Analysis-with-R
+
+In this statistical study, we embarked on a rigorous exploration of species richness through seven pivotal biodiversity variables using R. The essence of the research was to scrutinize the correlation between these variables, apply hypothesis testing, and build multiple linear regression models. By meticulously merging data points into a singular variable, BD7, our analysis aimed to contrast this new metric with the mean of all 11 taxonomic group values, referred to as BD11. The outcome offers insightful revelations on proportional species richness, contributing valuable perspectives to the field of ecological statistics.
